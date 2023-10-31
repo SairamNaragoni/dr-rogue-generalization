@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+shapely
+tensorflow[and-cuda]
+sklearn
+pandas
+opencv-python
